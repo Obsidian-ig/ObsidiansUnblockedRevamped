@@ -546,9 +546,9 @@ const gamesData = [
     redirect: false,
   },
   {
-    name: "Eaglercraft 1.5.2",
+    name: "Eaglercraft 1.12",
     img: "assets/eaglercraftold.jpg",
-    url: "games/eaglercraft/eaglercraft.1.5.2.html",
+    url: "./games/eaglercraft/eaglercraft_1.12.html",
     redirect: true,
   },
   {
